@@ -11,7 +11,9 @@
 [Networking](https://github.com/Noscka/Networking-Password-Manage) - C# </br>
 
 ### Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noscka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 <div>
