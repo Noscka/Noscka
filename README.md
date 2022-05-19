@@ -1,16 +1,31 @@
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/adam-krawczyk-ccsp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></br>
+  <img src="https://komarev.com/ghpvc/?username=Noscka&style=flat-square&color=blue" alt=""/>
+</div>
 
-<!--
-**Noscka/Noscka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Proudest Projects
+[Side Work Tool](https://github.com/Noscka/SideWorkTool) - C++ </br>
+[Dynamicaclly sized array](https://github.com/Noscka/Dynamic-Array-size-Function) and [Dynamically sized two dimensional array](https://github.com/Noscka/Two-Dimensional-Char-Pointer-Dynamic-Size-Array) - C++ </br>
+[Networking](https://github.com/Noscka/Networking-Password-Manage) - C# </br>
 
-Here are some ideas to get you started:
+### Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="50" height="50"/>&nbsp;
+  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="pycharm" alt="pycharm" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows8" alt="windows8" width="100" height="100"/>&nbsp;
+  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="50" height="50"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
