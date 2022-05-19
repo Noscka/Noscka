@@ -10,6 +10,9 @@
 [Dynamicaclly sized array](https://github.com/Noscka/Dynamic-Array-size-Function) and [Dynamically sized two dimensional array](https://github.com/Noscka/Two-Dimensional-Char-Pointer-Dynamic-Size-Array) - C++ </br>
 [Networking](https://github.com/Noscka/Networking-Password-Manage) - C# </br>
 
+### Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -26,6 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="50" height="50"/>&nbsp;
 </div>
-
-### Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
