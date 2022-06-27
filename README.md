@@ -14,7 +14,7 @@ Everything I know is self taugh which with I got the universally applicable skil
 
 ## Proudest Projects
 [Side Work Tool](https://github.com/Noscka/SideWorkTool) - C++ </br>
-[Dynamicaclly sized array](https://github.com/Noscka/Dynamic-Array-size-Function) and [Dynamically sized two dimensional array](https://github.com/Noscka/Two-Dimensional-Char-Pointer-Dynamic-Size-Array) - C++ </br>
+[Dynamicaclly sized array](https://github.com/Noscka/Dynamic-Array-size-Function), [Dynamically sized two dimensional array](https://github.com/Noscka/Two-Dimensional-Char-Pointer-Dynamic-Size-Array) and [Dynamic Size Array Object](https://github.com/Noscka/Dynamically-Sized-Array-Object)- C++ </br>
 [Networking](https://github.com/Noscka/Networking-Password-Manage) - C# </br>
 
 ## Stats
