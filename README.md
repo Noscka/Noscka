@@ -12,10 +12,13 @@ C/C++ and C# are my favourite programming langauges but I got experience with ma
 Everything I know is self taugh which with I got the universally applicable skill of efficient googling </br>
 
 
-## Proudest Projects
-[Side Work Tool](https://github.com/Noscka/SideWorkTool) - C++ </br>
-[Dynamicaclly sized array](https://github.com/Noscka/Dynamic-Array-size-Function), [Dynamically sized two dimensional array](https://github.com/Noscka/Two-Dimensional-Char-Pointer-Dynamic-Size-Array) and [Dynamic Size Array Object](https://github.com/Noscka/Dynamically-Sized-Array-Object)- C++ </br>
-[Networking](https://github.com/Noscka/Networking-Password-Manage) - C# </br>
+## Project Showcase
+[Side Work Tool](https://github.com/Noscka/SideWorkTool) - [C++] uses a mix of different projects I have made to create one, big project that is also practical and useful </br></br>
+[C++ Networking](https://github.com/Noscka/Cpp-Networking/tree/File-transfer-STC) - [C++] 🔥**Most Impressive**🔥. networking done in C++ using boost with different branches for different use cases (string sending, object sending, file transfer and etc)</br></br>
+[Dynamic Size Array Object](https://github.com/Noscka/Dynamically-Sized-Array-Object) - [C++] dynamic array which self-scales and closesly follows the original array usage, it allows for easy management of data without needing to mess with recreating arrays, pointers and etc </br></br>
+[Improved Dynamic Menu](https://github.com/Noscka/Improved-Dynamic-Menu) - [C++] a recreated and improved version of an older project, allows for dynamic menus in console to make your application look more proffesional and nicer </br></br>
+[Console Loading Screen](https://github.com/Noscka/Console-Loading-Screen) - [C++] Loading screen for console which allows for showing the user that the application is working in the background. </br></br>
+[Networking](https://github.com/Noscka/Networking-Password-Manage) - [C#] older project, uses advanced technologies such as TLS and asymmetric encryption, password hashing with key stretching. </br></br>
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
