@@ -13,8 +13,9 @@ Everything I know is self taugh which with I got the universally applicable skil
 
 
 ## Project Showcase
+[Noscka Standard Library](https://github.com/Noscka/Cpp-Networking/tree/File-transfer-STC) - [C++] 🔥**Impressive**🔥. a library I have created in order to keep all my frequently used functions in 1 area/project so I don't have to copy paste it each time, all other sub-projects in 1 area so I can just set up the library once and then use all the sub-projects from the library and also if any of the functions in the library turn out to have a safer, more efficient or better solution, I can just change it one place instead of changing it in all projects seperately</br></br>
+[C++ Networking](https://github.com/Noscka/Cpp-Networking/tree/File-transfer-STC) - [C++] 🔥**Impressive**🔥. networking done in C++ using boost with different branches for different use cases (string sending, object sending, file transfer and etc)</br></br>
 [Side Work Tool](https://github.com/Noscka/SideWorkTool) - [C++] uses a mix of different projects I have made to create one, big project that is also practical and useful </br></br>
-[C++ Networking](https://github.com/Noscka/Cpp-Networking/tree/File-transfer-STC) - [C++] 🔥**Most Impressive**🔥. networking done in C++ using boost with different branches for different use cases (string sending, object sending, file transfer and etc)</br></br>
 [Dynamic Size Array Object](https://github.com/Noscka/Dynamically-Sized-Array-Object) - [C++] dynamic array which self-scales and closesly follows the original array usage, it allows for easy management of data without needing to mess with recreating arrays, pointers and etc </br></br>
 [Improved Dynamic Menu](https://github.com/Noscka/Improved-Dynamic-Menu) - [C++] a recreated and improved version of an older project, allows for dynamic menus in console to make your application look more proffesional and nicer </br></br>
 [Console Loading Screen](https://github.com/Noscka/Console-Loading-Screen) - [C++] Loading screen for console which allows for showing the user that the application is working in the background. </br></br>
