@@ -8,8 +8,8 @@
 ## about me
 Open to job offers - best way to contact me is through [linkedin](https://www.linkedin.com/in/adam-krawczyk-ccsp/) </br></br>
 I am a 18 year old with great interesting in programs. </br>
-C/C++ and C# are my favourite languages (as you can see from my profile) </br>
-Everything I know is self taugh which with I got the universally applicable skill of efficient googling </br>
+I have 7 years of experience with programming in C++ and C# </br>
+And I try to make projects that are varied and have something special between them and can be used in the future. </br>
 
 
 ## Project Showcase
