@@ -13,13 +13,13 @@ And I try to make projects that are varied and have something special between th
 
 
 ## Project Highlight
-[NosStdLib](https://github.com/Noscka/Noscka-Standard-Library) – [C++] NosStdLib is a library I created and manage in order to increase my productivity and output. In the library, I have all my frequently used functions, my subprojects (such as ConsoleMenu, DynamicArrays and more), and compatibility between said subprojects.</br></br>
+[NosLib](https://github.com/Noscka/NosLib) – [C++] NosLib is a library I created and manage in order to increase my productivity and output. In the library, I have all my frequently used functions, my subprojects (such as ConsoleMenu, DynamicArrays and more), and compatibility between said subprojects.</br></br>
 
 [Unreal Realism](https://github.com/Noscka/Unreal-Realism-Test) – [Unreal Engine C++] (CURRENTLY PRIVATED) Unreal Realism is a game project meant to create a foundation on which I could later build on. So, the end goal of this game won’t have any story, goal, or anything alike but will only be a demonstration and a foundation of what I was able to create in the field of combat realism.</br></br>
 
 [NosNet](https://github.com/Noscka/NosNet) – [C++] This project uses what I’ve learnt from the C++ Networking project (the one below) to create a User/Client lead communications system. NosNet (once completed) will allow for direct communication between the clients without a middleman server, this allows for quicker communication and file sharing with no limit.</br></br>
 
-[C++ Networking](https://github.com/Noscka/Cpp-Networking) – [C++] A project utilizing the boost library plus NosStdLib (The one above) to create file transfer program. The program is designed to use minimal memory, allow for download resumes. This project was mostly made to learn how to use Boost ASIO and to develop a basis for other projects that require networking.</br></br>
+[C++ Networking](https://github.com/Noscka/Cpp-Networking) – [C++] A project utilizing the boost library plus NosLib (The one above) to create file transfer program. The program is designed to use minimal memory, allow for download resumes. This project was mostly made to learn how to use Boost ASIO and to develop a basis for other projects that require networking.</br></br>
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
