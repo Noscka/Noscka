@@ -22,5 +22,8 @@ And I try to make projects that are varied and have something special between th
 [C++ Networking](https://github.com/Noscka/Cpp-Networking) – [C++] A project utilizing the boost library plus NosLib (The one above) to create file transfer program. The program is designed to use minimal memory, allow for download resumes. This project was mostly made to learn how to use Boost ASIO and to develop a basis for other projects that require networking.</br></br>
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)</br>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noscka&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noscka&theme=github_dark)|
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noscka&theme=github_dark)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Noscka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</br>
