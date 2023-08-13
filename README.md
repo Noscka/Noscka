@@ -13,13 +13,15 @@ And I try to make projects that are varied and have something special between th
 
 
 ## Project Highlight
-[NosLib](https://github.com/Noscka/NosLib) – [C++] NosLib is a library I created and manage in order to increase my productivity and output. In the library, I have all my frequently used functions, my subprojects (such as ConsoleMenu, DynamicArrays and more), and compatibility between said subprojects.</br></br>
+[NosLib](https://github.com/Noscka/NosLib) – [C++] NosLib is a library created and managed to increase productivity and throughput. The library contains frequently used functions, my subprojects (such as ConsoleMenu, DynamicArray, etc), and compatibility between said subprojects.</br></br>
 
-[Unreal Realism](https://github.com/Noscka/Unreal-Realism-Test) – [Unreal Engine C++] (CURRENTLY PRIVATED) Unreal Realism is a game project meant to create a foundation on which I could later build on. So, the end goal of this game won’t have any story, goal, or anything alike but will only be a demonstration and a foundation of what I was able to create in the field of combat realism.</br></br>
+[Unreal Realism](https://github.com/Noscka/Unreal-Realism-Test) – [Unreal Engine C++] Unreal Realism is a game project meant to create a foundation which is easily expandable and could later be build on. So, the end goal of this game won’t have any story, goal, or anything alike but will only be a demonstration and a foundation of what I was able to create in the field of combat realism.</br></br>
 
-[NosNet](https://github.com/Noscka/NosNet) – [C++] This project uses what I’ve learnt from the C++ Networking project (the one below) to create a User/Client lead communications system. NosNet (once completed) will allow for direct communication between the clients without a middleman server, this allows for quicker communication and file sharing with no limit.</br></br>
+[NosNet](https://github.com/Noscka/NosNet) – [C++] This project uses what I’ve learned from the C++ Networking project (the one below) to create a User/Client lead communications system. NosNet allows for direct communication between the clients without a middleman server, this allows for quicker communication, file sharing with no limit, and an unseen amount of privacy.</br></br>
 
-[C++ Networking](https://github.com/Noscka/Cpp-Networking) – [C++] A project utilizing the boost library plus NosLib (The one above) to create file transfer program. The program is designed to use minimal memory, allow for download resumes. This project was mostly made to learn how to use Boost ASIO and to develop a basis for other projects that require networking.</br></br>
+[C++ Networking](https://github.com/Noscka/Cpp-Networking) – [C++] A project utilizing the boost library plus NosLib (The one above) to create file transfer program. The program is designed to use minimal memory, allow for download resumes. This project was mostly made to learn how to use Boost ASIO and to develop.</br></br>
+
+[NCGI](https://github.com/Noscka/Norzkas-Custom-Gamma-Installer) - [C++] A custom alternative installer for a modpack called “G.A.M.M.A.” for a game called “Stalker Anomaly”. Designed with ease of use in mind, and made to be lightweight. The installer achieves quick download speeds and makes the final installation have smaller final size compared to the official installer.</br></br>
 
 ## Stats
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noscka&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noscka&theme=github_dark)|
