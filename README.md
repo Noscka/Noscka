@@ -24,7 +24,7 @@ And I try to make projects that are varied and have something special between th
 [NCGI](https://github.com/Noscka/Norzkas-Custom-Gamma-Installer) - [C++] A custom alternative installer for a modpack called “G.A.M.M.A.” for a game called “Stalker Anomaly”. Designed with ease of use in mind, and made to be lightweight. The installer achieves quick download speeds and makes the final installation have smaller final size compared to the official installer.</br></br>
 
 ## Stats
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noscka&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noscka&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noscka&theme=github_dark&utcOffset=1)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noscka&theme=github_dark)|
 |---|---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noscka&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noscka&theme=github_dark)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Noscka&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
 
